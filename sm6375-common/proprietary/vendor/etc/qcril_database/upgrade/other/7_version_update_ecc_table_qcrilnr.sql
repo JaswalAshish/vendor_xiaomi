@@ -116,6 +116,28 @@ INSERT INTO qcril_emergency_source_mcc_mnc_table VALUES('208','13','197','','');
 INSERT INTO qcril_emergency_source_mcc_mnc_table VALUES('208','13','116000','','');
 INSERT INTO qcril_emergency_source_mcc_mnc_table VALUES('208','13','116117','','');
 
+INSERT INTO qcril_emergency_source_mcc_mnc_table VALUES('208','15','15','','');
+INSERT INTO qcril_emergency_source_mcc_mnc_table VALUES('208','15','17','','');
+INSERT INTO qcril_emergency_source_mcc_mnc_table VALUES('208','15','18','','');
+INSERT INTO qcril_emergency_source_mcc_mnc_table VALUES('208','15','115','','');
+INSERT INTO qcril_emergency_source_mcc_mnc_table VALUES('208','15','119','','');
+INSERT INTO qcril_emergency_source_mcc_mnc_table VALUES('208','15','191','','');
+INSERT INTO qcril_emergency_source_mcc_mnc_table VALUES('208','15','196','','');
+INSERT INTO qcril_emergency_source_mcc_mnc_table VALUES('208','15','197','','');
+INSERT INTO qcril_emergency_source_mcc_mnc_table VALUES('208','15','116000','','');
+INSERT INTO qcril_emergency_source_mcc_mnc_table VALUES('208','15','116117','','');
+
+INSERT INTO qcril_emergency_source_mcc_mnc_table VALUES('208','16','15','','');
+INSERT INTO qcril_emergency_source_mcc_mnc_table VALUES('208','16','17','','');
+INSERT INTO qcril_emergency_source_mcc_mnc_table VALUES('208','16','18','','');
+INSERT INTO qcril_emergency_source_mcc_mnc_table VALUES('208','16','115','','');
+INSERT INTO qcril_emergency_source_mcc_mnc_table VALUES('208','16','119','','');
+INSERT INTO qcril_emergency_source_mcc_mnc_table VALUES('208','16','191','','');
+INSERT INTO qcril_emergency_source_mcc_mnc_table VALUES('208','16','196','','');
+INSERT INTO qcril_emergency_source_mcc_mnc_table VALUES('208','16','197','','');
+INSERT INTO qcril_emergency_source_mcc_mnc_table VALUES('208','16','116000','','');
+INSERT INTO qcril_emergency_source_mcc_mnc_table VALUES('208','16','116117','','');
+
 INSERT INTO qcril_emergency_source_voice_mcc_mnc_table VALUES('208','01','15','','');
 INSERT INTO qcril_emergency_source_voice_mcc_mnc_table VALUES('208','01','17','','');
 INSERT INTO qcril_emergency_source_voice_mcc_mnc_table VALUES('208','01','18','','');
@@ -227,3 +249,25 @@ INSERT INTO qcril_emergency_source_voice_mcc_mnc_table VALUES('208','13','196','
 INSERT INTO qcril_emergency_source_voice_mcc_mnc_table VALUES('208','13','197','','');
 INSERT INTO qcril_emergency_source_voice_mcc_mnc_table VALUES('208','13','116000','','');
 INSERT INTO qcril_emergency_source_voice_mcc_mnc_table VALUES('208','13','116117','','');
+
+INSERT INTO qcril_emergency_source_voice_mcc_mnc_table VALUES('208','15','15','','');
+INSERT INTO qcril_emergency_source_voice_mcc_mnc_table VALUES('208','15','17','','');
+INSERT INTO qcril_emergency_source_voice_mcc_mnc_table VALUES('208','15','18','','');
+INSERT INTO qcril_emergency_source_voice_mcc_mnc_table VALUES('208','15','115','','');
+INSERT INTO qcril_emergency_source_voice_mcc_mnc_table VALUES('208','15','119','','');
+INSERT INTO qcril_emergency_source_voice_mcc_mnc_table VALUES('208','15','191','','');
+INSERT INTO qcril_emergency_source_voice_mcc_mnc_table VALUES('208','15','196','','');
+INSERT INTO qcril_emergency_source_voice_mcc_mnc_table VALUES('208','15','197','','');
+INSERT INTO qcril_emergency_source_voice_mcc_mnc_table VALUES('208','15','116000','','');
+INSERT INTO qcril_emergency_source_voice_mcc_mnc_table VALUES('208','15','116117','','');
+
+INSERT INTO qcril_emergency_source_voice_mcc_mnc_table VALUES('208','16','15','','');
+INSERT INTO qcril_emergency_source_voice_mcc_mnc_table VALUES('208','16','17','','');
+INSERT INTO qcril_emergency_source_voice_mcc_mnc_table VALUES('208','16','18','','');
+INSERT INTO qcril_emergency_source_voice_mcc_mnc_table VALUES('208','16','115','','');
+INSERT INTO qcril_emergency_source_voice_mcc_mnc_table VALUES('208','16','119','','');
+INSERT INTO qcril_emergency_source_voice_mcc_mnc_table VALUES('208','16','191','','');
+INSERT INTO qcril_emergency_source_voice_mcc_mnc_table VALUES('208','16','196','','');
+INSERT INTO qcril_emergency_source_voice_mcc_mnc_table VALUES('208','16','197','','');
+INSERT INTO qcril_emergency_source_voice_mcc_mnc_table VALUES('208','16','116000','','');
+INSERT INTO qcril_emergency_source_voice_mcc_mnc_table VALUES('208','16','116117','','');
